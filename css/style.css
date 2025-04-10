@@ -11,3 +11,23 @@ header{
     height: 60px;
     background-color: brown;
 }
+
+header nav{
+    position:relative;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    color: aliceblue;
+}
+nav ul{
+    position:relative;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    list-style: nome;
+}
+ul li{
+    position:relative;
+    margin-right: 1em;
+}
