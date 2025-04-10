@@ -18,7 +18,7 @@ body{
 header{
     position:relative;
     width:100%;
-    height:var(--height-default);
+    height: var(--height-default);
     background-color: brown;
 }
 
